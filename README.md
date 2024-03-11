@@ -142,3 +142,68 @@
 - Key Word Variables Length Parameters (or) arguments
 - Recursion
 - Local variables and Global Variables
+
+  # Python Refreshment Part 2
+
+
+## Lambda Function
+
+### Explanation
+Add explanation here.
+
+### Architecture
+Add architecture details here.
+
+### Programs
+Add programs here.
+
+---
+
+## Special Functions
+
+### Filter()
+
+#### Explanation
+Add explanation here.
+
+#### Architecture
+Add architecture details here.
+
+#### Programs
+Add programs here.
+
+### Map()
+
+#### Explanation
+Add explanation here.
+
+#### Architecture
+Add architecture details here.
+
+#### Programs
+Add programs here.
+
+### Reduce()
+
+#### Explanation
+Add explanation here.
+
+#### Architecture
+Add architecture details here.
+
+#### Programs
+Add programs here.
+
+---
+
+## List Comprehension
+
+### List Comprehension Using Lambda Function
+Add explanation and programs here.
+
+### Dict Comprehension
+Add explanation and programs here.
+
+### Set Comprehension
+Add explanation and programs here.
+
